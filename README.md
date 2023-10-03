@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Lee
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMoofon0222&layout=compact&theme=tokyonight)
-![](https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg)
 <!--
 **LeeMoofon0222/LeeMoofon0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
