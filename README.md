@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Moofon
 ### You are my ![Visitor Count](https://profile-counter.glitch.me/LeeMoofon0222/count.svg) visitor, Welcome!<br>
-A 18 years old student study from Taiwan
+A 18-year-old student studying in Taiwan
 - 🌱 I’m a Full-Stack engineer currently learning the Website, Mobile App and Game Design
 - 🔭 Currently studing in NTUT (Department of Intelligent Automation Engineering) forth grade, not really like hardware engineering
 - 👯 If you are looking for a team member or have any question about my project, please contact me
@@ -24,7 +24,6 @@ A 18 years old student study from Taiwan
 <p>
     <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="Firebase" width="50" height="50">
   <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="GCP" width="50" height="50">
-  <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="Azure" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" alt="SQLServer" width="50" height="50">
   <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="PostMan" width="50" height="50">
