@@ -2,7 +2,7 @@
 ### You are my ![Visitor Count](https://profile-counter.glitch.me/LeeMoofon0222/count.svg) visitor, Welcome!<br>
 A 18-year-old student studying in Taiwan
 - 🌱 I’m a Full-Stack engineer currently learning the Website, Mobile App and Game Design
-- 📚 Recently studing algorithms and data strucures
+- 📚 Recently learning algorithms and data strucures
 - 🔭 Currently studing in NTUT (Department of Intelligent Automation Engineering) forth grade, not really like hardware engineering
 - 👯 If you are looking for a team member or have any question about my project, please contact me
 ### Language and tools
