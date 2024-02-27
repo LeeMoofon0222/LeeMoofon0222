@@ -1,9 +1,12 @@
-### Hi 👋, I'm Moofon
+### Hi 👋, I'm Ventus
 ### You are my ![Visitor Count](https://profile-counter.glitch.me/LeeMoofon0222/count.svg) visitor, Welcome!<br>
 A 19-years-old student studying in Taiwan
 - 🌱 I’m a Full-Stack engineer focus on Website, Mobile App and Game Design
 - 📚 Recently learning Algorithms and Data structures
 - 🔭 Currently studing in NTUT (Department of Intelligent Automation Engineering) forth grade
+
+![](https://github-readme-stats.vercel.app/api?username=LeeMoofon0222&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMoofon0222&layout=compact&theme=tokyonight)
 ### Language and tools
 <p>
   <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="C" width="50" height="50">
