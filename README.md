@@ -4,7 +4,7 @@ A 19-years-old student studying in Taiwan
 - 🌱 I’m a Full-Stack engineer focus on Website, Mobile App and Game Design
 - 📚 Recently learning Algorithms and Data structures
 - 🔭 Currently studing in NTUT (Department of Intelligent Automation Engineering) forth grade
-![](https://github-readme-stats.vercel.app/api?username=LeeMoofon0222&show_icons=true&theme=transparent)
+- - - - - - - -
 ### Language and tools
 <p>
   <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="C" width="50" height="50">
@@ -34,6 +34,10 @@ A 19-years-old student studying in Taiwan
   <img src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="PostMan" width="50" height="50">
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
 </p>
+
+- - - - - - - -
+![](https://github-readme-stats.vercel.app/api?username=LeeMoofon0222&show_icons=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LeeMoofon0222)
 <!--
 **LeeMoofon0222/LeeMoofon0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
