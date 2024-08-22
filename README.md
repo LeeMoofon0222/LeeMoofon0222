@@ -33,7 +33,8 @@ A 19-years-old student studying in Taiwan
   <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" alt="SQLServer" width="50" height="50">
   <img src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="PostMan" width="50" height="50">
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="Git" width="50" height="50">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="Gitlab" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Git" width="50" height="50">
 </p>
 
 - - - - - - - -
