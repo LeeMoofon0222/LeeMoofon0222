@@ -3,7 +3,7 @@
 A 19-years-old student studying in Taiwan
 - 🌱 I’m a Full-Stack engineer focus on Website, Mobile App and Game Design
 - 📚 Recently learning Algorithms and Data structures
-- 🔭 Currently studing in NTUT (Department of Intelligent Automation Engineering) forth grade
+- 🔭 Currently studing in NTUT (Department of Intelligent Automation Engineering) fifth grade
 - - - - - - - -
 ### Language and tools
 <p>
@@ -19,19 +19,19 @@ A 19-years-old student studying in Taiwan
   <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
   <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50">
-  <img src="https://camo.githubusercontent.com/4f547b5ce259ce8503665ce964bb8a20fddab463cf96ee9714a4545c3f8e18e8/68747470733a2f2f626573746f666a732e6f72672f6c6f676f732f767565746966792e737667" alt="Vutify" width="50" height="50">
-  <img src="https://camo.githubusercontent.com/ed1f17e5df73529a8d49749c0150014f940ff01d645e0c77103f11b3aad63b00/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667" alt="Dart" width="50" height="50">
-  <img src="https://camo.githubusercontent.com/a682e207ce9939518c8617c6340b1bf8b1769b30a9f1b45d27d67fd64af1d0f2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" alt="Flutter" width="50" height="50">
+  <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-v3-light.svg" alt="Vutify" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/849dd3e05b480b650e4416ce157e91d60d60c822f8706e42dca2943993d71270/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667" alt="Dart" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/2167e144b868512a0723b3556c44410b6fb52a0e569ef5f2768232b8b705c649/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" alt="Flutter" width="50" height="50">
  
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" alt="Kotlin" width="50" height="50">
-  <img src="https://camo.githubusercontent.com/3e5344a2965e786497ceb575ad67d2c64d412bb9683da05791edf424a0e40734/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="Firebase" width="50" height="50">
-  <img src="https://camo.githubusercontent.com/c5154bccf972e16333d42688e3e02a424b422a557fdbbac94972dcd2eebfe590/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="GCP" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/f19579bd4b5f0b9812474d8109d5882710dad0399d94497a26ea79dc01dea234/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="Firebase" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/d124825d0e0968226011ee97e6001d44a4844a75cc2a1a058cde8bf7791bea97/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="GCP" width="50" height="50">
   <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" alt="SQLServer" width="50" height="50">
-  <img src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="PostMan" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="PostMan" width="50" height="50">
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="Gitlab" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Git" width="50" height="50">
