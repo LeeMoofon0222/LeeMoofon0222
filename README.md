@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Moofon
-### You are my ![Visitor Count](https://profile-counter.glitch.me/LeeMoofon0222/count.svg) visitor, Welcome!<br>
+### Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/LeeMoofon0222/count.svg) visitor<br>
 A 19-years-old student studying in Taiwan
 - 🌱 I’m a Full-Stack engineer focus on Website, Mobile App and Game Design
 - 📚 Recently learning Algorithms and Data structures
