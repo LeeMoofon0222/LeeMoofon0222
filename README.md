@@ -39,7 +39,7 @@ A 19-years-old student studying in Taiwan
 
 - - - - - - - -
 <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=LeeMoofon0222&show_icons=true&theme=transparent" />
-<img align="right" width="48%" src="https://streak-stats.demolab.com/?user=LeeMoofon0222" />
+<img align="right" width="49%" src="https://streak-stats.demolab.com?user=LeeMoofon0222&theme=github-dark" alt="GitHub Streak" />
 <!--
 **LeeMoofon0222/LeeMoofon0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
