@@ -15,7 +15,7 @@ I am a passionate student at NTUT studying Intelligent Automation Engineering. W
 </a>
 <!-- Dark Mode -->
 <a href="https://www.linkedin.com/in/hoganlin#gh-dark-mode-only">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
+    <img src="https://img.shields.io/badge/LinkedIn-58895329a?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
         alt="Connect with me on linkedin" height="25" >
 </a>
 <img src="https://img.shields.io/github/followers/LeeMoofon0222?style=social" height="25" />
