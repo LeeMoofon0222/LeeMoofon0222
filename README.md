@@ -9,13 +9,13 @@ I am a passionate student at NTUT studying Intelligent Automation Engineering. W
 <span>
 <img src="https://komarev.com/ghpvc/?username=LeeMoofon0222&style=flat"  height="25">
 <!-- Light Mode -->
-<a href="www.linkedin.com/in/hoganlin#gh-light-mode-only">
+<a href="www.linkedin.com/in/moofon-li-58895329a#gh-light-mode-only">
     <img src="https://img.shields.io/badge/LinkedIn-58895329a?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
         alt="Connect with me on linkedin" height="25" >
 </a>
 <!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/hoganlin#gh-dark-mode-only">
-    <img src="https://img.shields.io/badge/LinkedIn-58895329a?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
+<a href="https://www.linkedin.com/in/moofon-li-58895329a#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
         alt="Connect with me on linkedin" height="25" >
 </a>
 <img src="https://img.shields.io/github/followers/LeeMoofon0222?style=social" height="25" />
