@@ -1,11 +1,28 @@
 ### Hi 👋, I'm Moofon
-### Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/LeeMoofon0222/count.svg) visitor<br>
-A 19-years-old student studying in Taiwan
+### A 19-years-old student studying in Taiwan
+I am a passionate student at NTUT studying Intelligent Automation Engineering. With experience in software collaboration, agile development, and software development across various IT-related fields, I have excelled in computer science courses and project work. I'm eager to continue expanding my technical skills and contributing to the open-source community.
+
 - 🌱 I’m a Full-Stack engineer focus on Website, Mobile App and Game Design
-- 📚 Recently learning Algorithms and Data structures
+- 📚 Recently learning blockchain technology
 - 🔭 Currently studing in NTUT (Department of Intelligent Automation Engineering) fifth grade
+
+<span>
+<img src="https://komarev.com/ghpvc/?username=LeeMoofon0222&style=flat"  height="25">
+<!-- Light Mode -->
+<a href="www.linkedin.com/in/hoganlin#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/LinkedIn-58895329a?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
+        alt="Connect with me on linkedin" height="25" >
+</a>
+<!-- Dark Mode -->
+<a href="https://www.linkedin.com/in/hoganlin#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
+        alt="Connect with me on linkedin" height="25" >
+</a>
+<img src="https://img.shields.io/github/followers/LeeMoofon0222?style=social" height="25" />
+</span>
+
 - - - - - - - -
-### Language and tools
+### language and tools
 <p>
   <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="C" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50">
@@ -39,7 +56,7 @@ A 19-years-old student studying in Taiwan
 
 - - - - - - - -
 <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=LeeMoofon0222&show_icons=true&theme=transparent" />
-<img align="right" width="49%" src="https://streak-stats.demolab.com?user=LeeMoofon0222&theme=github-dark" alt="GitHub Streak" />
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeeMoofon0222&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LeeMoofon0222" />
 <!--
 **LeeMoofon0222/LeeMoofon0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
