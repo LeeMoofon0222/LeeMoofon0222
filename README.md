@@ -7,7 +7,7 @@ I am a passionate student at NTUT studying Intelligent Automation Engineering. W
 - 🔭 Currently studing in NTUT (Department of Intelligent Automation Engineering) fifth grade
 
 <span>
-<img src="https://komarev.com/ghpvc/?username=LeeMoofon0222&style=flat"  height="25">
+<img src="https://komarev.com/ghpvc/?username=MoofonLi&style=flat"  height="25">
 <!-- Light Mode -->
 <a href="www.linkedin.com/in/moofon-li-58895329a#gh-light-mode-only">
     <img src="https://img.shields.io/badge/LinkedIn-58895329a?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
@@ -18,7 +18,7 @@ I am a passionate student at NTUT studying Intelligent Automation Engineering. W
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
         alt="Connect with me on linkedin" height="25" >
 </a>
-<img src="https://img.shields.io/github/followers/LeeMoofon0222?style=social" height="25" />
+<img src="https://img.shields.io/github/followers/MoofonLi?style=social" height="25" />
 </span>
 
 - - - - - - - -
@@ -55,10 +55,10 @@ I am a passionate student at NTUT studying Intelligent Automation Engineering. W
 </p>
 
 - - - - - - - -
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=LeeMoofon0222&show_icons=true&theme=transparent" />
-<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeeMoofon0222&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LeeMoofon0222" />
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=MoofonLi&show_icons=true&theme=transparent" />
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoofonLi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MoofonLi" />
 <!--
-**LeeMoofon0222/LeeMoofon0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MoofonLi/MoofonLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
